@@ -53,8 +53,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayant-ai-ml&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-ai-ml&theme=radical" />
 </p>
 
 ---
