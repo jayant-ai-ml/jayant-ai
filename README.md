@@ -27,12 +27,24 @@ Working on:
 ---
 
 ## 🛠 Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-Learn
-- TensorFlow / PyTorch
-- SQL
-- Git & GitHub
+
+### 💻 Programming
+Python | SQL | DSA | OOP | Git
+
+### 📊 Data Science
+Pandas | NumPy | EDA | Feature Engineering | Scikit-Learn | Model Evaluation
+
+### 🤖 Machine Learning
+Regression | Classification | Decision Trees | Random Forest | Cross Validation | Hyperparameter Tuning
+
+### 🧠 Deep Learning
+ANN | CNN | TensorFlow | PyTorch
+
+### 🏦 Finance AI
+Financial Risk Modeling | Financial Report Intelligence | Expense Automation | Decision Intelligence
+
+### 🚀 Modern AI
+LLMs | RAG | Prompt Engineering | AI Agents (Conceptual)
 
 ---
 
