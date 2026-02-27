@@ -38,3 +38,7 @@ Working on:
 
 ## 📈 Goals
 Building AI systems that support financial decision-making and risk monitoring.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant-ai-ml&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-ai-ml&layout=compact)
